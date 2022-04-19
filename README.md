@@ -10,10 +10,20 @@ From that, you decide to chat with the Bot and send a message like: "Hi robot, w
 The ChatBot is able to understand what you want and might answer you in two ways:
 
 > option 1) The ChatBot will send you a big text showing you where the product is (like > an > path), or maybe with a hyperlink to click and navigate on.
-or 
+
+<br>
+or
+<br> 
+
 > option 2) The ChatBot will take you in an interactive way to the website section where the product X is.
 
-The second option is better, right?!
+**The second option is better, right?**
+
+The image below demonstrate the same scenery which is particularly different then searching a product X, nonetheless, following the same principle:
+
+![image-1](https://github.com/matheusicaro/article-interactive-virtual-assistant/blob/develop/images/interaction-on-the-platform.gif)
+
+The user interact with the Chatbot to find information in the site and, consequently, the Chatbot is able to understand the user intentions and redirect the user to correct sections. 
 
 ---
 
